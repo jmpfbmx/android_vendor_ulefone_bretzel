@@ -29,12 +29,14 @@ PRODUCT_COPY_FILES += \
     vendor/ulefone/bretzel/proprietary/etc/permissions/com.st.android.nfc_dta_extensions.xml:system/etc/permissions/com.st.android.nfc_dta_extensions.xml \
     vendor/ulefone/bretzel/proprietary/etc/permissions/com.st.android.nfc_extensions.xml:system/etc/permissions/com.st.android.nfc_extensions.xml \
     vendor/ulefone/bretzel/proprietary/lib/libdtaNfaProvider.so:system/lib/libdtaNfaProvider.so \
+    vendor/ulefone/bretzel/proprietary/lib/libhui.so:system/lib/libhui.so \
     vendor/ulefone/bretzel/proprietary/lib/libicuXD.so:system/lib/libicuXD.so \
     vendor/ulefone/bretzel/proprietary/lib/libnfc_st_dta.so:system/lib/libnfc_st_dta.so \
     vendor/ulefone/bretzel/proprietary/lib/libnfc_st_dta_jni.so:system/lib/libnfc_st_dta_jni.so \
     vendor/ulefone/bretzel/proprietary/lib/libstnfc-nci.so:system/lib/libstnfc-nci.so \
     vendor/ulefone/bretzel/proprietary/lib/libstnfc_nci_jni.so:system/lib/libstnfc_nci_jni.so \
     vendor/ulefone/bretzel/proprietary/lib64/libdtaNfaProvider.so:system/lib64/libdtaNfaProvider.so \
+    vendor/ulefone/bretzel/proprietary/lib64/libhui.so:system/lib64/libhui.so \
     vendor/ulefone/bretzel/proprietary/lib64/libicuXD.so:system/lib64/libicuXD.so \
     vendor/ulefone/bretzel/proprietary/lib64/libnfc_st_dta.so:system/lib64/libnfc_st_dta.so \
     vendor/ulefone/bretzel/proprietary/lib64/libnfc_st_dta_jni.so:system/lib64/libnfc_st_dta_jni.so \
